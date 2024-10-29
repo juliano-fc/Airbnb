@@ -1,8 +1,8 @@
 ## Análise dos Dados do Airbnb em Barcelona
-### Descrição do Projeto
 
 ![freepik__candid-image-photography-natural-textures-highly-r__36495_Easy-Resize com (1)](https://github.com/user-attachments/assets/e5153e6f-8bb1-44b2-b0bb-eff221373221)
 
+### Descrição do Projeto
 
 Este repositório contém uma análise exploratória dos dados do Airbnb na cidade de Barcelona, utilizando informações disponíveis no portal Inside Airbnb. O Airbnb é atualmente uma das maiores empresas hoteleiras do mundo, conectando viajantes a anfitriões que oferecem hospedagens alternativas. O objetivo deste projeto é extrair insights significativos sobre as características e tendências das propriedades listadas em Barcelona.
 
